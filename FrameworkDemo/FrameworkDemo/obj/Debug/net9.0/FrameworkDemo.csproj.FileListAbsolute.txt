@@ -1,0 +1,18 @@
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\FrameworkDemo.exe
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\FrameworkDemo.deps.json
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\FrameworkDemo.runtimeconfig.json
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\FrameworkDemo.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\FrameworkDemo.pdb
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\Simple Game Framework.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\bin\Debug\net9.0\Simple Game Framework.pdb
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\Framewor.A209D08B.Up2Date
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\refint\FrameworkDemo.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.pdb
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\FrameworkDemo.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\FrameworkDemo\FrameworkDemo\obj\Debug\net9.0\ref\FrameworkDemo.dll
