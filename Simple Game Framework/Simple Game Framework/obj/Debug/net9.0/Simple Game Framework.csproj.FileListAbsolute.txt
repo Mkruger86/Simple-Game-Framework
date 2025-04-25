@@ -1,0 +1,11 @@
+C:\Simple Game Framework\Simple Game Framework\bin\Debug\net9.0\Simple Game Framework.deps.json
+C:\Simple Game Framework\Simple Game Framework\bin\Debug\net9.0\Simple Game Framework.dll
+C:\Simple Game Framework\Simple Game Framework\bin\Debug\net9.0\Simple Game Framework.pdb
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.AssemblyInfoInputs.cache
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.AssemblyInfo.cs
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.csproj.CoreCompileInputs.cache
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.dll
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\refint\Simple Game Framework.dll
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.pdb
+C:\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\ref\Simple Game Framework.dll

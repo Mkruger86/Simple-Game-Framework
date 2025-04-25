@@ -1,0 +1,264 @@
+SimpleGameFramework Information: 1 : [2025-04-24 22:07:44] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Goblin' added at position <0. 15>.
+SimpleGameFramework Information: 4 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Elf' added at position <1. 6>.
+SimpleGameFramework Information: 5 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Orc' added at position <2. 13>.
+SimpleGameFramework Information: 6 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Dwarf' added at position <7. 3>.
+SimpleGameFramework Information: 7 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Dragon' added at position <15. 1>.
+SimpleGameFramework Information: 8 : [2025-04-24 22:07:44] WorldState: World state updated: Creature 'Beast' added at position <10. 11>.
+SimpleGameFramework Information: 9 : [2025-04-24 22:07:44] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <9. 13>.
+SimpleGameFramework Information: 10 : [2025-04-24 22:07:44] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <5. 11>.
+SimpleGameFramework Information: 11 : [2025-04-24 22:07:49] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 12 : [2025-04-24 22:07:51] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 2>.
+SimpleGameFramework Information: 13 : [2025-04-24 22:07:54] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 2>.
+SimpleGameFramework Information: 14 : [2025-04-24 22:07:55] PlayerAction: Hero performed action: Move. Details: Moved to position <4. 2>.
+SimpleGameFramework Information: 15 : [2025-04-24 22:07:57] PlayerAction: Hero performed action: Move. Details: Moved to position <5. 2>.
+SimpleGameFramework Information: 16 : [2025-04-24 22:07:58] PlayerAction: Hero performed action: Move. Details: Moved to position <6. 2>.
+SimpleGameFramework Information: 17 : [2025-04-24 22:08:00] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 2>.
+SimpleGameFramework Information: 18 : [2025-04-24 22:08:03] PlayerAction: Hero performed action: Attack. Details: Attacked Dwarf for 20 damage.
+SimpleGameFramework Information: 1 : [2025-04-24 22:11:20] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Goblin' added at position <5. 6>.
+SimpleGameFramework Information: 4 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Elf' added at position <2. 5>.
+SimpleGameFramework Information: 5 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Orc' added at position <7. 10>.
+SimpleGameFramework Information: 6 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Dwarf' added at position <11. 10>.
+SimpleGameFramework Information: 7 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Dragon' added at position <1. 13>.
+SimpleGameFramework Information: 8 : [2025-04-24 22:11:20] WorldState: World state updated: Creature 'Beast' added at position <15. 2>.
+SimpleGameFramework Information: 9 : [2025-04-24 22:11:20] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <7. 8>.
+SimpleGameFramework Information: 10 : [2025-04-24 22:11:20] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <12. 5>.
+SimpleGameFramework Information: 11 : [2025-04-24 22:11:55] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 12 : [2025-04-24 22:11:57] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 3>.
+SimpleGameFramework Information: 13 : [2025-04-24 22:12:01] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 3>.
+SimpleGameFramework Information: 14 : [2025-04-24 22:12:02] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 3>.
+SimpleGameFramework Information: 15 : [2025-04-24 22:12:04] PlayerAction: Hero performed action: Move. Details: Moved to position <4. 3>.
+SimpleGameFramework Information: 16 : [2025-04-24 22:12:07] PlayerAction: Hero performed action: Move. Details: Moved to position <5. 3>.
+SimpleGameFramework Information: 17 : [2025-04-24 22:12:08] PlayerAction: Hero performed action: Move. Details: Moved to position <6. 3>.
+SimpleGameFramework Information: 18 : [2025-04-24 22:12:11] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 3>.
+SimpleGameFramework Information: 19 : [2025-04-24 22:12:12] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 4>.
+SimpleGameFramework Information: 20 : [2025-04-24 22:12:14] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 5>.
+SimpleGameFramework Information: 21 : [2025-04-24 22:12:15] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 6>.
+SimpleGameFramework Information: 22 : [2025-04-24 22:12:17] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 7>.
+SimpleGameFramework Information: 23 : [2025-04-24 22:12:19] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 8>.
+SimpleGameFramework Information: 24 : [2025-04-24 22:12:19] PlayerAction: Hero performed action: Loot. Details: Looted item 'Sword' from 'Chest with Sword'.
+SimpleGameFramework Information: 25 : [2025-04-24 22:12:27] PlayerAction: Hero performed action: Move. Details: Moved to position <7. 9>.
+SimpleGameFramework Information: 26 : [2025-04-24 22:12:41] PlayerAction: Hero performed action: Attack. Details: Attacked Orc for 40 damage.
+SimpleGameFramework Information: 1 : [2025-04-25 11:05:21] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Goblin' added at position <8. 10>.
+SimpleGameFramework Information: 4 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Elf' added at position <5. 10>.
+SimpleGameFramework Information: 5 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Orc' added at position <2. 5>.
+SimpleGameFramework Information: 6 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Dwarf' added at position <8. 3>.
+SimpleGameFramework Information: 7 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Dragon' added at position <1. 3>.
+SimpleGameFramework Information: 8 : [2025-04-25 11:05:21] WorldState: World state updated: Creature 'Beast' added at position <7. 5>.
+SimpleGameFramework Information: 9 : [2025-04-25 11:05:21] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <3. 14>.
+SimpleGameFramework Information: 10 : [2025-04-25 11:05:21] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <15. 5>.
+SimpleGameFramework Information: 11 : [2025-04-25 11:05:32] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 12 : [2025-04-25 11:05:36] PlayerAction: Hero performed action: Attack. Details: Attacked Dragon for 20 damage.
+SimpleGameFramework Information: 13 : [2025-04-25 11:05:54] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 2>.
+SimpleGameFramework Information: 14 : [2025-04-25 11:05:58] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 3>.
+SimpleGameFramework Information: 15 : [2025-04-25 11:06:00] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 4>.
+SimpleGameFramework Information: 16 : [2025-04-25 11:06:02] PlayerAction: Hero performed action: Attack. Details: Attacked Orc for 20 damage.
+SimpleGameFramework Information: 17 : [2025-04-25 11:06:12] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 4>.
+SimpleGameFramework Information: 18 : [2025-04-25 11:06:15] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 5>.
+SimpleGameFramework Information: 19 : [2025-04-25 11:06:17] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 6>.
+SimpleGameFramework Information: 20 : [2025-04-25 11:06:18] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 7>.
+SimpleGameFramework Information: 21 : [2025-04-25 11:06:21] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 8>.
+SimpleGameFramework Information: 22 : [2025-04-25 11:06:23] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 9>.
+SimpleGameFramework Information: 23 : [2025-04-25 11:06:24] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 10>.
+SimpleGameFramework Information: 24 : [2025-04-25 11:06:25] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 11>.
+SimpleGameFramework Information: 25 : [2025-04-25 11:06:28] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 12>.
+SimpleGameFramework Information: 26 : [2025-04-25 11:06:30] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 13>.
+SimpleGameFramework Information: 27 : [2025-04-25 11:06:33] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 14>.
+SimpleGameFramework Information: 28 : [2025-04-25 11:06:33] PlayerAction: Hero performed action: Loot. Details: Looted item 'Sword' from 'Chest with Sword'.
+SimpleGameFramework Information: 29 : [2025-04-25 11:06:40] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 13>.
+SimpleGameFramework Information: 30 : [2025-04-25 11:06:42] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 12>.
+SimpleGameFramework Information: 31 : [2025-04-25 11:06:43] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 11>.
+SimpleGameFramework Information: 32 : [2025-04-25 11:06:45] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 10>.
+SimpleGameFramework Information: 33 : [2025-04-25 11:06:47] PlayerAction: Hero performed action: Move. Details: Moved to position <4. 10>.
+SimpleGameFramework Information: 34 : [2025-04-25 11:06:51] PlayerAction: Hero performed action: Attack. Details: Attacked Elf for 40 damage.
+SimpleGameFramework Information: 1 : [2025-04-25 13:02:57] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Goblin' added at position <9. 0>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Elf' added at position <0. 7>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Orc' added at position <8. 10>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Dwarf' added at position <8. 13>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Dragon' added at position <4. 3>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:02:57] WorldState: World state updated: Creature 'Beast' added at position <7. 1>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:02:57] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <8. 0>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:02:57] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <2. 0>.
+SimpleGameFramework Information: 11 : [2025-04-25 13:03:09] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 1>.
+SimpleGameFramework Information: 12 : [2025-04-25 13:03:13] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 0>.
+SimpleGameFramework Information: 13 : [2025-04-25 13:03:13] PlayerAction: Hero performed action: Loot. Details: Looted item 'Shield' from 'Chest with Shield'.
+SimpleGameFramework Information: 14 : [2025-04-25 13:03:18] PlayerAction: Hero performed action: Move. Details: Moved to position <3. 0>.
+SimpleGameFramework Information: 15 : [2025-04-25 13:03:20] PlayerAction: Hero performed action: Move. Details: Moved to position <4. 0>.
+SimpleGameFramework Information: 16 : [2025-04-25 13:03:22] PlayerAction: Hero performed action: Move. Details: Moved to position <4. 1>.
+SimpleGameFramework Information: 17 : [2025-04-25 13:03:28] PlayerAction: Hero performed action: Move. Details: Moved to position <4. 2>.
+SimpleGameFramework Information: 18 : [2025-04-25 13:03:52] PlayerAction: Hero performed action: Attack. Details: Attacked Dragon for 20 damage.
+SimpleGameFramework Information: 1 : [2025-04-25 13:36:38] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Goblin' added at position <0. 10>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Elf' added at position <0. 14>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Orc' added at position <15. 8>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Dwarf' added at position <10. 2>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Dragon' added at position <2. 13>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:36:39] WorldState: World state updated: Creature 'Beast' added at position <3. 14>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:36:39] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <15. 6>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:36:39] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <10. 10>.
+SimpleGameFramework Information: 11 : [2025-04-25 13:36:51] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 1>.
+SimpleGameFramework Information: 1 : [2025-04-25 13:39:04] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Goblin' added at position <11. 13>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Elf' added at position <5. 4>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Orc' added at position <9. 9>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Dwarf' added at position <4. 8>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Dragon' added at position <2. 3>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:39:04] WorldState: World state updated: Creature 'Beast' added at position <6. 7>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:39:04] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <8. 4>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:39:04] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <9. 1>.
+SimpleGameFramework Information: 1 : [2025-04-25 13:52:13] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Goblin' added at position <8. 2>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Elf' added at position <14. 11>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Orc' added at position <14. 5>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Dwarf' added at position <5. 3>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Dragon' added at position <2. 2>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:52:14] WorldState: World state updated: Creature 'Beast' added at position <9. 4>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:52:14] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <7. 7>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:52:14] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <2. 6>.
+SimpleGameFramework Information: 11 : [2025-04-25 13:52:20] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 1 : [2025-04-25 13:52:36] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Goblin' added at position <2. 5>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Elf' added at position <9. 7>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Orc' added at position <14. 9>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Dwarf' added at position <9. 0>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Dragon' added at position <11. 14>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:52:36] WorldState: World state updated: Creature 'Beast' added at position <12. 1>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:52:36] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <10. 11>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:52:36] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <11. 6>.
+SimpleGameFramework Information: 11 : [2025-04-25 13:52:41] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 12 : [2025-04-25 13:52:47] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 3>.
+SimpleGameFramework Information: 13 : [2025-04-25 13:52:51] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 4>.
+SimpleGameFramework Information: 14 : [2025-04-25 13:52:55] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 4>.
+SimpleGameFramework Information: 15 : [2025-04-25 13:52:59] PlayerAction: Hero performed action: Attack. Details: Attacked Goblin for 20 damage.
+SimpleGameFramework Information: 1 : [2025-04-25 13:56:02] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Goblin' added at position <0. 4>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Elf' added at position <0. 7>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Orc' added at position <13. 13>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Dwarf' added at position <14. 0>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Dragon' added at position <3. 8>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:56:03] WorldState: World state updated: Creature 'Beast' added at position <5. 14>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:56:03] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <10. 14>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:56:03] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <13. 7>.
+SimpleGameFramework Information: 11 : [2025-04-25 13:56:09] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 1 : [2025-04-25 13:59:19] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Goblin' added at position <3. 0>.
+SimpleGameFramework Information: 4 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Elf' added at position <6. 11>.
+SimpleGameFramework Information: 5 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Orc' added at position <15. 9>.
+SimpleGameFramework Information: 6 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Dwarf' added at position <0. 0>.
+SimpleGameFramework Information: 7 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Dragon' added at position <13. 5>.
+SimpleGameFramework Information: 8 : [2025-04-25 13:59:19] WorldState: World state updated: Creature 'Beast' added at position <5. 4>.
+SimpleGameFramework Information: 9 : [2025-04-25 13:59:19] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <4. 2>.
+SimpleGameFramework Information: 10 : [2025-04-25 13:59:19] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <5. 2>.
+SimpleGameFramework Information: 11 : [2025-04-25 13:59:28] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:02:30] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Goblin' added at position <11. 15>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Elf' added at position <13. 5>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Orc' added at position <14. 4>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Dwarf' added at position <10. 0>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Dragon' added at position <4. 5>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:02:31] WorldState: World state updated: Creature 'Beast' added at position <3. 15>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:02:31] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <12. 3>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:02:31] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <8. 1>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:02:59] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Goblin' added at position <6. 0>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Elf' added at position <9. 5>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Orc' added at position <1. 4>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Dwarf' added at position <6. 12>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Dragon' added at position <9. 6>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:02:59] WorldState: World state updated: Creature 'Beast' added at position <15. 8>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:02:59] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <2. 13>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:02:59] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <1. 2>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:09:00] : Logger initialized successfully.
+SimpleGameFramework Information: 1 : [2025-04-25 14:10:14] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Goblin' added at position <14. 3>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Elf' added at position <9. 2>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Orc' added at position <5. 6>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Dwarf' added at position <10. 6>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Dragon' added at position <8. 3>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:10:14] WorldState: World state updated: Creature 'Beast' added at position <1. 2>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:10:15] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <5. 5>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:10:15] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <12. 4>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:12:11] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:12:11] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:12:11] WorldState: World state updated: Creature 'Goblin' added at position <11. 11>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:12:11] WorldState: World state updated: Creature 'Elf' added at position <4. 11>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:12:11] WorldState: World state updated: Creature 'Orc' added at position <4. 3>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:12:12] WorldState: World state updated: Creature 'Dwarf' added at position <2. 5>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:12:12] WorldState: World state updated: Creature 'Dragon' added at position <0. 6>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:12:12] WorldState: World state updated: Creature 'Beast' added at position <15. 13>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:12:12] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <2. 13>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:12:12] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <13. 13>.
+SimpleGameFramework Information: 11 : [2025-04-25 14:12:20] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:14:25] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Goblin' added at position <13. 3>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Elf' added at position <13. 12>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Orc' added at position <11. 15>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Dwarf' added at position <7. 0>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Dragon' added at position <8. 3>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:14:25] WorldState: World state updated: Creature 'Beast' added at position <1. 2>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:14:25] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <7. 5>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:14:25] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <4. 8>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:16:13] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Goblin' added at position <7. 7>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Elf' added at position <9. 12>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Orc' added at position <1. 3>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Dwarf' added at position <11. 0>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Dragon' added at position <1. 4>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:16:13] WorldState: World state updated: Creature 'Beast' added at position <10. 8>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:16:13] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <2. 11>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:16:13] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <14. 1>.
+SimpleGameFramework Information: 11 : [2025-04-25 14:16:16] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:17:23] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Goblin' added at position <2. 12>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Elf' added at position <7. 6>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Orc' added at position <0. 5>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Dwarf' added at position <11. 13>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Dragon' added at position <8. 1>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:17:23] WorldState: World state updated: Creature 'Beast' added at position <6. 4>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:17:23] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <4. 1>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:17:23] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <12. 15>.
+SimpleGameFramework Information: 11 : [2025-04-25 14:17:29] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 12 : [2025-04-25 14:17:31] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 3>.
+SimpleGameFramework Information: 13 : [2025-04-25 14:17:35] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 3>.
+SimpleGameFramework Information: 1 : [2025-04-25 14:50:17] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Goblin' added at position <11. 5>.
+SimpleGameFramework Information: 4 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Elf' added at position <9. 13>.
+SimpleGameFramework Information: 5 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Orc' added at position <6. 5>.
+SimpleGameFramework Information: 6 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Dwarf' added at position <15. 8>.
+SimpleGameFramework Information: 7 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Dragon' added at position <10. 8>.
+SimpleGameFramework Information: 8 : [2025-04-25 14:50:17] WorldState: World state updated: Creature 'Beast' added at position <1. 10>.
+SimpleGameFramework Information: 9 : [2025-04-25 14:50:17] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <5. 12>.
+SimpleGameFramework Information: 10 : [2025-04-25 14:50:17] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <4. 15>.
+SimpleGameFramework Information: 1 : [2025-04-25 16:01:21] : Logger initialized successfully.
+SimpleGameFramework Information: 2 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Hero' added at position <1. 1>.
+SimpleGameFramework Information: 3 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Goblin' added at position <4. 6>.
+SimpleGameFramework Information: 4 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Elf' added at position <0. 14>.
+SimpleGameFramework Information: 5 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Orc' added at position <8. 14>.
+SimpleGameFramework Information: 6 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Dwarf' added at position <15. 4>.
+SimpleGameFramework Information: 7 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Dragon' added at position <8. 4>.
+SimpleGameFramework Information: 8 : [2025-04-25 16:01:22] WorldState: World state updated: Creature 'Beast' added at position <11. 9>.
+SimpleGameFramework Information: 9 : [2025-04-25 16:01:22] WorldState: World state updated: WorldObject 'Chest with Sword' placed at <1. 8>.
+SimpleGameFramework Information: 10 : [2025-04-25 16:01:22] WorldState: World state updated: WorldObject 'Chest with Shield' placed at <9. 6>.
+SimpleGameFramework Information: 11 : [2025-04-25 16:01:30] PlayerAction: Hero performed action: Move. Details: Moved to position <1. 2>.
+SimpleGameFramework Information: 12 : [2025-04-25 16:01:32] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 2>.
+SimpleGameFramework Information: 13 : [2025-04-25 16:01:35] PlayerAction: Hero performed action: Move. Details: Moved to position <2. 3>.

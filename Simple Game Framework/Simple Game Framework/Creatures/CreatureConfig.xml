@@ -1,0 +1,18 @@
+﻿<Creatures>
+	<Creature id="1" type="Human">
+		<BaseHealth value="120" />
+		<Damage type="Physical" value="10" />
+		<Damage type="Cold" value="5" />
+	</Creature>
+	<Creature id="2" type="Elf">
+		<BaseHealth value="100" />
+		<Damage type="Fire" value="5" />
+		<Damage type="Ice" value="5" />
+		<Damage type="Arcane" value="10" />
+	</Creature>
+	<Creature id="3" type="Orc">
+		<BaseHealth value="150" />
+		<Damage type="Physical" value="15" />
+		<Damage type="Fire" value="5" />
+	</Creature>
+</Creatures>

@@ -1,0 +1,45 @@
+﻿<WorldConfiguration>
+	<GridSize width="16" height="16" />
+	<Difficulty>Normal</Difficulty>
+	<CreaturePlacement random="true">
+		<Creatures>
+			<Creature type="Human" isPlayer="true">
+				<Position x="1" y="1" />
+			</Creature>
+			<Creature type="Goblin">
+				<Position x="3" y="3" />
+			</Creature>
+			<Creature type="Elf">
+				<Position x="3" y="3" />
+			</Creature>
+			<Creature type="Orc">
+				<Position x="3" y="3" />
+			</Creature>
+			<Creature type="Dwarf">
+				<Position x="3" y="3" />
+			</Creature>
+			<Creature type="Dragon">
+				<Position x="3" y="3" />
+			</Creature>
+			<Creature type="Beast">
+				<Position x="3" y="3" />
+			</Creature>
+		</Creatures>
+	</CreaturePlacement>
+	<WorldObjects random="true">
+		<WorldObject name="Chest with Sword">
+			<Position x="1" y="2" />
+			<Item type="AttackItem" name="Sword" description="A sharp blade that deals physical damage.">
+				<Damage type="Physical" value="15" />
+				<Damage type="Ice" value="5" />
+			</Item>
+		</WorldObject>
+		<WorldObject name="Chest with Shield">
+			<Position x="2" y="3" />
+			<Item type="DefenseItem" name="Shield" description="A sturdy shield that reduces physical damage.">
+				<Defense type="Physical" value="10" />
+				<Defense type="Fire" value="5" />
+			</Item>
+		</WorldObject>
+	</WorldObjects>
+</WorldConfiguration>
