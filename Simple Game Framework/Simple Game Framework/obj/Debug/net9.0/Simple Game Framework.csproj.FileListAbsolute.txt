@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\bin\Debug\net9.0\Simple Game Framework.deps.json
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\bin\Debug\net9.0\Simple Game Framework.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\bin\Debug\net9.0\Simple Game Framework.pdb
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\refint\Simple Game Framework.dll
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\Simple Game Framework.pdb
+C:\Users\micha\OneDrive\Datamatiker\Opgaver\4. Semester\Advanced Sofware Construction\Simple Game Framework\Simple Game Framework\Simple Game Framework\obj\Debug\net9.0\ref\Simple Game Framework.dll
